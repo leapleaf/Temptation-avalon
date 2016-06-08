@@ -23,7 +23,8 @@
 | exp |  | string | 領取 |
 | err_code | 430 | string | 已領取 |
 | err_code|431|string|未領取|
-
+| Daily_Take| | int | 有沒有領過 |
+| Daily_Can_Get| | int | 可不可以領取 | 
 
 
 ### 5. 錯誤代碼說明
