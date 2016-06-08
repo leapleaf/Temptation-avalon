@@ -30,5 +30,9 @@ API編碼:2.10.0
 
 ### 6.回傳格式範例
 ```
+array (size=3)
+  'err_code' => string '429' (length=3)
+  'err_desc' => string '領取' (length=6)
+  'show_Receive_gifts_id' => null
 {"err_code":"430","err_desc":"\u5df2\u9818\u53d6","show_Receive_gifts_id":null}
 ```
