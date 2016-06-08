@@ -8,7 +8,7 @@
 
 ### 2. 說明
 
-輸入角色跟ID跟禮包順序可以查詢禮包內容 ,但是前期是積分要夠
+輸入角色跟ID跟禮包順序可以查詢禮包內容
 ### 3. 輸入參數說明
 
 
@@ -34,5 +34,13 @@
 
 
 ```
+array (size=4)
+  'Daily_Take' => boolean false
+  'Daily_Can_Get' => boolean false
+  'exp' => string '100' (length=3)
+  0 => 
+    array (size=2)
+      'property' => string '100009' (length=6)
+      'quantity' => int 1
 {"Daily_Take":false,"Daily_Can_Get":false,"exp":"100","0":{"property":"100009","quantity":1}}
 ``````
