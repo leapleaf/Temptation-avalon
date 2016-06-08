@@ -21,7 +21,7 @@
 | 參數 | 意義 | 型別 | 說明 |
 | -- | -- | -- | -- | -- |
 | exp |  | string | 經驗值 |
-|0|道具ID|數量|
+
 | err_code | 430 | string | 已領取 |
 | err_code|431|string|未領取|
 | Daily_Take| | int | 有沒有領過 |
@@ -32,6 +32,11 @@
 ### 5. 錯誤代碼說明
 
 ### 6.回傳格式範例
+
+|0|道具ID|數量|
+
+
+
 
 {"Daily_Take":false,"Daily_Can_Get":false,"exp":"100","0":{"property":"100009","quantity":1}}
 
