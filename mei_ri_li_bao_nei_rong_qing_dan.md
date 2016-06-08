@@ -1,6 +1,6 @@
 # 每日禮包內容清單
 
-API編碼:2.10.1
+API編碼:2.10.3
 
 更新日期:2016/06/08
 
@@ -21,7 +21,10 @@ API編碼:2.10.1
 ### 4. 回傳參數說明
 | 參數 | 意義 | 型別 | 說明 |
 | -- | -- | -- | -- | -- |
-| exp |  | string | 經驗值 |
+| exp |  | int | 經驗值 |
+| property |  | string | 道具 |
+| quantity |  | int | 數量 |
+| err_code | 430 | string | 已領取 |
 | err_code | 430 | string | 已領取 |
 | err_code|431|string|未領取|
 | Daily_Take| | bool | 有沒有領過 |
@@ -38,7 +41,7 @@ API編碼:2.10.1
 array (size=4)
   'Daily_Take' => boolean false
   'Daily_Can_Get' => boolean false
-  'exp' => string '100' (length=3)
+  'exp' => int '100' (length=3)
   0 => 
     array (size=2)
       'property' => string '100009' (length=6)
