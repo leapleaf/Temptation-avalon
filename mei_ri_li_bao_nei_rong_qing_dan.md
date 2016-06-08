@@ -31,8 +31,8 @@
 ### 5. 錯誤代碼說明
 
 ### 6.回傳格式範例
+
+
 ```
-
-|0|道具ID|數量|
 {"Daily_Take":false,"Daily_Can_Get":false,"exp":"100","0":{"property":"100009","quantity":1}}
-
+``````
