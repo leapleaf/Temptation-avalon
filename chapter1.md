@@ -1,4 +1,4 @@
-# 聯盟戰力排名 alliance_power_rank
+# 每日任務
 
 
 
@@ -7,11 +7,7 @@ API編碼:2.10.0
 
 更新日期:2016/05/05
 
-SVN版本:15511//先不用寫
-
-
-
-發布版本:2.0.0
+發布版本:2.0.6
 ### 1.路徑:api/event/Daily_Tacks_show
 
 ### 2. 說明
@@ -43,7 +39,7 @@ SVN版本:15511//先不用寫
 
 
 ### 6.回傳格式範例
-
+```
 array (size=11)
   'err_code' => string '000' (length=3)
   'err_desc' => string 'success' (length=7)
@@ -134,3 +130,4 @@ array (size=11)
 
 
 
+```
