@@ -20,16 +20,18 @@
 ### 4. 回傳參數說明
 | 參數 | 意義 | 型別 | 說明 |
 | -- | -- | -- | -- | -- |
-| exp |  | string | 領取 |
+| exp |  | string | 經驗值 |
+|0|道具ID|數量|
 | err_code | 430 | string | 已領取 |
 | err_code|431|string|未領取|
 | Daily_Take| | int | 有沒有領過 |
 | Daily_Can_Get| | int | 可不可以領取 | 
 
 
+
 ### 5. 錯誤代碼說明
 
 ### 6.回傳格式範例
 
-{"err_code":"430","err_desc":"\u5df2\u9818\u53d6","show_Receive_gifts_id":null}
+{"Daily_Take":false,"Daily_Can_Get":false,"exp":"100","0":{"property":"100009","quantity":1}}
 
