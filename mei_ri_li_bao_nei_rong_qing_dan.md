@@ -19,16 +19,16 @@ API編碼:2.10.3
 | Receive_gifts_id   | 範例:10001 | int | -- | 禮包ID|
 
 ### 4. 回傳參數說明
-| 參數 | 意義 | 型別 | 說明 |
-| -- | -- | -- | -- | -- |
-| exp |  | int | 經驗值 |
-| property |  | string | 道具_ID|
-| quantity |  | int | 數量 |
-| err_code | 430 | string | 已領取 |
-| err_code | 430 | string | 已領取 |
-| err_code|431|string|未領取|
-| Daily_Take| | bool | 有沒有領過 |
-| Daily_Can_Get| | bool | 可不可以領取 | 
+| 參數 | 意義 | 型別 | 說明 |範例|
+| -- | -- | -- | -- | -- |--
+| exp |  | int | 經驗值 |--
+| property |  | string | 道具_ID|100009|
+| quantity |  | int | 數量 |--
+| err_code | 430 | string | 已領取 |--
+| err_code | 430 | string | 已領取 |--
+| err_code|431|string|未領取|--
+| Daily_Take| | bool | 有沒有領過 |--
+| Daily_Can_Get| | bool | 可不可以領取 | --
 
 
 
