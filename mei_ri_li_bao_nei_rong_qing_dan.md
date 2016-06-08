@@ -22,13 +22,10 @@ API編碼:2.10.3
 | 參數 | 意義 | 型別 | 說明 |範例|
 | -- | -- | -- | -- | -- |--
 | exp |  | int | 經驗值 |--
-| property |  | string | 道具_ID|100009|
+| property |  |  int | 道具_ID|100009|
 | quantity |  | int | 數量 |--
-| err_code | 430 | string | 已領取 |--
-| err_code | 430 | string | 已領取 |--
-| err_code|431|string|未領取|--
-| Daily_Take| | bool | 有沒有領過 |--
-| Daily_Can_Get| | bool | 可不可以領取 | --
+| Daily_Take| | bool | 有沒有領過 | 1為領過,0為沒有領過
+| Daily_Can_Get| | bool | 可不可以領取 | 1為領過,0為沒有領過--
 
 
 
