@@ -22,7 +22,7 @@ API編碼:2.10.3
 | 參數 | 意義 | 型別 | 說明 |
 | -- | -- | -- | -- | -- |
 | exp |  | int | 經驗值 |
-| property |  | string | 道具 |
+| property |  | string | 道具_ID|
 | quantity |  | int | 數量 |
 | err_code | 430 | string | 已領取 |
 | err_code | 430 | string | 已領取 |
