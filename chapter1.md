@@ -29,16 +29,18 @@ API編碼:2.10.1
 | character_id | 1 | string | -- |
 |rand_task|每日隨機任務 |array|--"
 |Daily_random_tasks_point|每日隨機積分 |array|--| 
-|Daily_Take|禮包是否有被領取過 |--|--|  
-|Daily_Can_Get|禮包是否可以領取 |||  
-|Daily_Take||array|--|  
-|Package_1|||禮包|  
-
+|Daily_Take|禮包是否有被領取過 |array|--|  
+|Package_1||array|禮包目前狀態|  
+|Daily_Can_Get|禮包是否可以領取 |array||  
+|Achive1||array|如果可以領取會顯示True|  
+|Dail_Task_point|一般任務積分|array|--|  
+|DailyEventID|一般任務標籤|array|--|  
+|point|一般任務分數|array|--| 
 |Dail_Random_props|每日隨機指定任務道具 |||  
-|--|Specify_element ||指定隨機元素|  
-|--|Specify_Fragment ||指定隨機製作碎片|  
-|Integration| ||總積分|  
-|Do_you_have| ||今天有沒有被使用過這隻API|  
+|Specify_element| 指定隨機元素|||  
+|Specify_Fragment|指定隨機製作碎片 |||  
+|Integration|總積分 |||  
+|Do_you_have|今天有沒有被使用過這隻API ||--|  
 ### 5. 錯誤代碼說明
 
 
