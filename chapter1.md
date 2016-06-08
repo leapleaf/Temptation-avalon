@@ -24,12 +24,16 @@ API編碼:2.10.1
 ### 4. 回傳參數說明
 | 參數 | 意義 | 型別 | 說明 |
 | -- | -- | -- | -- | -- |
-| err_code | 回傳參數碼 | string |  |
-| err_desc | 回傳參數碼說明 | string | -- |
-|rand_task|隨機任物與隨機任物積分 |array|key|
-|Daily_Take|禮包是否有被領取過 |||  
+| err_code | 000 | string |  |
+| err_desc | success | string | -- |
+| character_id | 1 | string | -- |
+|rand_task|每日隨機任務 |array|--"
+|Daily_random_tasks_point|每日隨機積分 |array|--| 
+|Daily_Take|禮包是否有被領取過 |--|--|  
 |Daily_Can_Get|禮包是否可以領取 |||  
-|Dail_Task_point|每日任務積分|||  
+|Daily_Take||array|--|  
+|Package_1|||禮包|  
+
 |Dail_Random_props|每日隨機指定任務道具 |||  
 |--|Specify_element ||指定隨機元素|  
 |--|Specify_Fragment ||指定隨機製作碎片|  
