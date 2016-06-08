@@ -28,6 +28,6 @@
 ### 5. 錯誤代碼說明
 
 ### 6.回傳格式範例
-
+```
 {"err_code":"430","err_desc":"\u5df2\u9818\u53d6","show_Receive_gifts_id":null}
-
+```
