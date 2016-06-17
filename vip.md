@@ -23,24 +23,24 @@ VIP功能
 | -- | -- | -- | -- | -- |
 | err_code | 000 | string |  |
 | err_desc | success | string | -- |
-| character_id | 1 | string | -- |
-|vip_lv|VIP等級 |array|--"
-|vip_pay|VIP付款金額 |array|--| 
-|Vipinform|VIP資訊 |array|--|  
-|VipID||array||  
-|VipLv| |array||  
-|Prepaid||array|如果可以領取會顯示True|  
-|GetGold|一般任務積分|array|--|  
-|Mount|一般任務標籤|array|--|  
-|point|一般任務分數|array|--| 
-|ExpBuff|每日隨機指定任務道具 |||  
-|GemSpeepBuff| 指定隨機元素|||  
-|GemNumBuff|指定隨機製作碎片 |||  
-|StaminaBuff|總積分 |||  
-|PetAtkBuff|今天有沒有被使用過這隻API ||--|  
-|PetDefBuff|今天有沒有被使用過這隻API ||--|  
-|PetHpBuff|今天有沒有被使用過這隻API ||--|  
-|LvLimit|今天有沒有被使用過這隻API ||--|  
+| character_id | 1 | int | -- |
+|vip_lv|VIP等級 |int|--"
+|vip_pay|VIP付款金額 |int|--| 
+|Vipinform|VIP資訊 |array|以下都是靜態表資料|  
+|VipID||int||  
+|VipLv| |int||  
+|Prepaid||int||  
+|GetGold||int|--|  
+|Mount||int|--|  
+|point||int|--| 
+|ExpBuff| |int||  
+|GemSpeepBuff| |int||  
+|GemNumBuff| |int||  
+|StaminaBuff| |int||  
+|PetAtkBuff| |int|--|  
+|PetDefBuff| |int|--|  
+|PetHpBuff| |int|--|  
+|LvLimit| |int|--|  
 
 ### 5. 錯誤代碼說明
 
