@@ -33,9 +33,9 @@ VIP功能
 |GetGold||int|--|  
 |Mount||int|--|  
 |point||int|--| 
-|ExpBuff| |int||  
-|GemSpeepBuff| |int||  
-|GemNumBuff| |int||  
+|ExpBuff| |float||  
+|GemSpeepBuff| |float||  
+|GemNumBuff| |float||  
 |StaminaBuff| |int||  
 |PetAtkBuff| |int|--|  
 |PetDefBuff| |int|--|  
