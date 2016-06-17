@@ -1,15 +1,15 @@
 # VIP
 
-API編碼:2.10.1
+API編碼:2.10.4
 
-更新日期:2016/06/08
+更新日期:2016/06/17
 
-發布版本:2.0.6
-### 1.路徑:api/event/Daily_Tacks_show
+發布版本:2.0.7
+### 1.路徑:api/event/VIP_show
 
 ### 2. 說明
 
-每天都會重製時間任務
+VIP功能
 ### 3. 輸入參數說明
 
 
@@ -24,20 +24,24 @@ API編碼:2.10.1
 | err_code | 000 | string |  |
 | err_desc | success | string | -- |
 | character_id | 1 | string | -- |
-|rand_task|每日隨機任務 |array|--"
-|Daily_random_tasks_point|每日隨機積分 |array|--| 
-|Daily_Take|禮包是否有被領取過 |array|--|  
-|Package_1||array|禮包目前狀態|  
-|Daily_Can_Get|禮包是否可以領取 |array||  
-|Achive1||array|如果可以領取會顯示True|  
-|Dail_Task_point|一般任務積分|array|--|  
-|DailyEventID|一般任務標籤|array|--|  
+|vip_lv|VIP等級 |array|--"
+|vip_pay|VIP付款金額 |array|--| 
+|Vipinform|VIP資訊 |array|--|  
+|VipID||array||  
+|VipLv| |array||  
+|Prepaid||array|如果可以領取會顯示True|  
+|GetGold|一般任務積分|array|--|  
+|Mount|一般任務標籤|array|--|  
 |point|一般任務分數|array|--| 
-|Dail_Random_props|每日隨機指定任務道具 |||  
-|Specify_element| 指定隨機元素|||  
-|Specify_Fragment|指定隨機製作碎片 |||  
-|Integration|總積分 |||  
-|Do_you_have|今天有沒有被使用過這隻API ||--|  
+|ExpBuff|每日隨機指定任務道具 |||  
+|GemSpeepBuff| 指定隨機元素|||  
+|GemNumBuff|指定隨機製作碎片 |||  
+|StaminaBuff|總積分 |||  
+|PetAtkBuff|今天有沒有被使用過這隻API ||--|  
+|PetDefBuff|今天有沒有被使用過這隻API ||--|  
+|PetHpBuff|今天有沒有被使用過這隻API ||--|  
+|LvLimit|今天有沒有被使用過這隻API ||--|  
+
 ### 5. 錯誤代碼說明
 
 
