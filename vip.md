@@ -32,7 +32,6 @@ VIP功能
 |Prepaid||int||  
 |GetGold||int|--|  
 |Mount||int|--|  
-|point||int|--| 
 |ExpBuff| |float||  
 |GemSpeepBuff| |float||  
 |GemNumBuff| |float||  
