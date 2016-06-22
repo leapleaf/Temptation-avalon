@@ -9,21 +9,26 @@ API編碼:2.10.5
 
 ### 2. 說明
 
-輸入角色跟ID跟禮包順序可以領取禮包
+輸入角色ID 可以拿到自己的資訊,剩下資訊是每日排行資料
 ### 3. 輸入參數說明
 
 
 | 參數 | 意義 | 型別 | 長度限制 | 說明 |
 | -- | -- | -- | -- | -- | -- |
-| character_id  | character_id  | int | -- | 角色ID |
-| Receive_gifts_id   | 範例:10001 | int | -- | 禮包ID|
+| character_id  |   | string | -- | 角色ID |
+| character_lv   |  | int | -- | 角色模組|
+| character_model   |  | int | -- | 等級|
+| character_duty   |  | int | -- | 等級|
+| Rank_list   |  | int | -- | 等級|
+| Rank_score   |  | int | -- | 等級|
+| Alliance_name   |  | int | -- | 等級|
 
 ### 4. 回傳參數說明
 | 參數 | 意義 | 型別 | 說明 |
 | -- | -- | -- | -- | -- |
-| err_code | 429 | string | 領取 |
-| err_code | 430 | string | 已領取 |
-|err_code|431|string|積分不夠,不能領取|
+| err_code | 000 | string |  |
+| err_desc | souce | string |  --|
+
 
 ### 5. 錯誤代碼說明
 
