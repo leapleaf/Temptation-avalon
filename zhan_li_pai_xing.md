@@ -2,10 +2,10 @@
 
 API編碼:2.10.5
 
-更新日期:2016/06/08
+更新日期:2016/06/22
 
 發布版本:2.0.6
-### 1.路徑:/event/Daily_Touch_renter.php 　
+### 1.路徑:/event/Rank_power_show 　
 
 ### 2. 說明
 
