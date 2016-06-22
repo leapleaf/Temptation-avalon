@@ -16,9 +16,9 @@ API編碼:2.10.5
 | 參數 | 意義 | 型別 | 長度限制 | 說明 |
 | -- | -- | -- | -- | -- | -- |
 | character_id  |   | string | -- | 角色ID |
-| character_lv   |  | int | -- | 角色模組|
-| character_model   |  | int | -- | 等級|
-| character_duty   |  | int | -- | 等級|
+| character_lv   |  | int | -- | 角色等級|
+| character_model   |  | int | -- | 角色模組|
+| character_duty   |  | int | -- | 角色duty|
 | Rank_list   |  | int | -- | 等級|
 | Rank_score   |  | int | -- | 等級|
 | Alliance_name   |  | int | -- | 等級|
