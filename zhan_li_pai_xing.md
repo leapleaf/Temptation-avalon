@@ -23,7 +23,7 @@ API編碼:2.10.5
 | -- | -- | -- | -- | -- |
 | err_code | 000 | string | -- |--|
 | err_desc | souce | string |  --|--|
-| character_nicknamer | souce | string |  --|--|
+| character_nicknamer | -- | string |--|--|
 | character_lv   |  | int | -- | 角色等級|
 | character_model   |  | int | -- | 角色模組|
 | character_duty   |  | int | -- | 角色duty|
