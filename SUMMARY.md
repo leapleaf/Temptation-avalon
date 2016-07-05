@@ -8,5 +8,5 @@
 * [每日禮包內容清單](mei_ri_li_bao_nei_rong_qing_dan.md)
 * [VIP](vip.md)
 * [戰力排行](zhan_li_pai_xing.md)
-* VIP_寵物
+* [VIP_寵物](vipchong_wu.md)
 
