@@ -9,4 +9,5 @@
 * [戰力排行](zhan_li_pai_xing.md)
 * [VIP](vip.md)
 * [VIP_寵物](vipchong_wu.md)
+* VIP_pet_show
 
