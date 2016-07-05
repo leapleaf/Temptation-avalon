@@ -25,7 +25,11 @@ VIP功能
 | err_desc | success | string | -- |
 | character_id | 1 | int | -- |
 |vip_lv|VIP等級 |int|--"
-|vip_pay|VIP付款金額 |int|--| 
+|vip_pet_num|擁有寵物數量 |int|--| 
+|vip_Pet_start|VIP寵物是否啟動 |int|--| 
+|vip_pet_time|VIP時間 |int|--| 
+|vip_pet_now|VIP目前寵物 |int|--| 
+|vip_pet_name|VIP寵物名稱 |int|--| 
 |Vipinform|VIP資訊 |array|以下都是靜態表資料|  
 |VipID||int||  
 |VipLv| |int||  
