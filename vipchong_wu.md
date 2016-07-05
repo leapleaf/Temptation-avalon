@@ -6,16 +6,18 @@ API編碼:2.10.6
 更新日期:2016/07/05
 
 發布版本:2.0.6
-### 1.路徑:/event/Rank_power_show 　
+### 1.路徑:../event/VIP_pet.php 　　
 
 ### 2. 說明
-輸入角色ID 可以
+輸入角色ID MountsID判斷目前要裝備哪一個 , MountsName 空值為不更改名稱 ,輸入值可以更名
 ### 3. 輸入參數說明
 
 
 | 參數 | 意義 | 型別 | 長度限制 | 說明 |
 | -- | -- | -- | -- | -- | -- |
-| character_id  |   | string | -- | 角色ID |
+| character_id  |   | int | -- | 角色ID |
+| MountsID  |   | int | -- | 寵物ID |
+| MountsName  |   | string | -- |寵物名稱 |
 
 
 ### 4. 回傳參數說明
