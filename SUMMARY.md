@@ -10,5 +10,5 @@
 * [VIP](vip.md)
 * [VIP_寵物](vipchong_wu.md)
 * [VIP_pet_show](vippet_show.md)
-* 聯盟戰力
+* [聯盟戰力](lian_meng_zhan_li.md)
 
