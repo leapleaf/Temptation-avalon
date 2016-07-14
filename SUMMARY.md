@@ -18,5 +18,5 @@
 * [跟大師講話](gen_da_shi_jiang_hua.md)
 * [取得跟大師講話](qu_de.md)
 * [每日簽到](mei.md)
-* [設定角色資料](she_ding_jiao_se_zi_liao.md)
+* [設定角色職業與模組](she_ding_jiao_se_zi_liao.md)
 
