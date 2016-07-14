@@ -12,5 +12,5 @@
 * [VIP_pet_show](vippet_show.md)
 * [聯盟競技場](lian_meng_zhan_li.md)
 * [自動排程](zi_dong_pai_chang.md)
-   * 戰力自動排成
+   * [戰力自動排成](zhan_li_zi_dong_pai_cheng.md)
 
