@@ -22,4 +22,5 @@
 * [取得角色資訊](qu_de_jiao_se_zi_xun.md)
 * [set_newbie_status](getnewbie_status.md)
 * [取得守護者進度](touchprotector_reward2.md)
+* 拿到目前守護者進度
 
