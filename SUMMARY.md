@@ -25,4 +25,5 @@
 * [拿到目前守護者進度](na_dao_mu_qian_shou_hu_zhe_jin_du.md)
 * [選擇元素製作](xuan_ze_yuan_su_zhi_zuo.md)
 * [取得元素製作時間](qu_de_yuan_su_zhi_zuo_shi_jian.md)
+* 獲取元素
 
