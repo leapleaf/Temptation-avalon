@@ -22,8 +22,7 @@
 | -- | -- | -- | -- | -- |
 | err_code | 000 | string |  |
 | err_desc |  | string | -- |
-| remaining_time |  | string | 寶石製作柱列時間 |
-| gem_id |  | string | 製作寶石ID|
+
 
 ### 5. 錯誤代碼說明
 
@@ -37,7 +36,7 @@
 ### 6.回傳格式範例
 ```
 
-{"err_code":"000","err_desc":"success","remaining_time":2000,"gem_id":100001,"queue":[{"gem_id":100001,"remaining_time":2000},{"gem_id":100001,"remaining_time":-1}]}
+{"err_code":"000","err_desc":"success","gems":[],"queue":[]}
 
 ```
 
