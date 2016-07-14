@@ -15,4 +15,5 @@
    * [戰力自動排成](zhan_li_zi_dong_pai_cheng.md)
    * [聯盟競技場排行](zhan_li.md)
 * [虔誠神學](qian_cheng_shen_xue.md)
+* 跟大師講話
 
