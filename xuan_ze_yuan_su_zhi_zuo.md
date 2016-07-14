@@ -25,8 +25,8 @@
 | -- | -- | -- | -- | -- |
 | err_code | 000 | string |  |
 | err_desc |  | string | -- |
-| remaining_time |  | string | -- |
-| last_remaining_time |  | string | -- |
+| remaining_time |  | string | 寶石製作柱列 |
+| last_remaining_time |  | string | 累加時間 |
 
 ### 5. 錯誤代碼說明
 
@@ -34,6 +34,7 @@
 | -- | -- | -- | -- | -- |
 | err_code | 140 | string |  |
 | err_desc | the character does not exist  | string | 沒有此ID |
+
 
 
 ### 6.回傳格式範例
