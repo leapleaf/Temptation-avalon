@@ -21,5 +21,5 @@
 * [設定角色職業與模組](she_ding_jiao_se_zi_liao.md)
 * [取得角色資訊](qu_de_jiao_se_zi_xun.md)
 * [set_newbie_status](getnewbie_status.md)
-* touch_protector_reward2
+* [touch_protector_reward2](touchprotector_reward2.md)
 
