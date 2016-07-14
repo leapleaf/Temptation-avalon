@@ -1,10 +1,6 @@
 # 選擇元素製作
 
 
-
-# 取得角色資訊
-
-
 更新日期:2016/07/14
 
 ### 1.路徑:    ../character/choose_collect_gem.php   　　　　  　
