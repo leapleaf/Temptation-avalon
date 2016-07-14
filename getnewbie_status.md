@@ -1,2 +1,2 @@
-# get_newbie_status
+# set_newbie_status
 
