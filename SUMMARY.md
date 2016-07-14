@@ -16,5 +16,5 @@
    * [聯盟競技場排行](zhan_li.md)
 * [虔誠神學](qian_cheng_shen_xue.md)
 * [跟大師講話](gen_da_shi_jiang_hua.md)
-* [取得](qu_de.md)
+* [取得跟大師講話](qu_de.md)
 
