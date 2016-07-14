@@ -23,5 +23,5 @@
 * [set_newbie_status](getnewbie_status.md)
 * [取得守護者進度](touchprotector_reward2.md)
 * [拿到目前守護者進度](na_dao_mu_qian_shou_hu_zhe_jin_du.md)
-* 選擇元素製作
+* [選擇元素製作](xuan_ze_yuan_su_zhi_zuo.md)
 
