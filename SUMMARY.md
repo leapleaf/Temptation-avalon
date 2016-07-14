@@ -11,5 +11,4 @@
 * [VIP_寵物](vipchong_wu.md)
 * [VIP_pet_show](vippet_show.md)
 * [聯盟競技場](lian_meng_zhan_li.md)
-* 戰力
 
