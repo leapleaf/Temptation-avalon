@@ -12,4 +12,5 @@
 * [VIP_pet_show](vippet_show.md)
 * [聯盟競技場](lian_meng_zhan_li.md)
 * [自動排長](zi_dong_pai_chang.md)
+   * 戰力自動排成
 
