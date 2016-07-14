@@ -17,5 +17,5 @@
 * [虔誠神學](qian_cheng_shen_xue.md)
 * [跟大師講話](gen_da_shi_jiang_hua.md)
 * [取得跟大師講話](qu_de.md)
-* 每
+* [每](mei.md)
 

@@ -30,8 +30,7 @@
 | -- | -- | -- | -- | -- |
 | err_code | 140 | string |  |
 | err_desc | character does not exist | string | 找不到此ID |
-| err_code | 320 | string |  |
-| err_desc | invalid type | string | 无效的类型 |
+
 
 
 
