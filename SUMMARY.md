@@ -19,4 +19,5 @@
 * [取得跟大師講話](qu_de.md)
 * [每日簽到](mei.md)
 * [設定角色職業與模組](she_ding_jiao_se_zi_liao.md)
+* 取得角色資訊
 
