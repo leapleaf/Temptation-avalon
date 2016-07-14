@@ -19,11 +19,11 @@
 | 參數 | 意義 | 型別 | 說明 |
 | -- | -- | -- | -- | -- |
 | err_code | 000 | string |  |
-| err_desc | success | bool | -- |
-| can_angel_talk | 1 | string | -- |
-| can_pastor_talk | 1 | string | -- |
-| can_teacher_talk | 1 | string | -- |
-| can_santaclaus_talk | 1 | string | -- |
+| err_desc | success | string | -- |
+| can_angel_talk | 1 | bool | -- |
+| can_pastor_talk | 1 | bool | -- |
+| can_teacher_talk | 1 | bool | -- |
+| can_santaclaus_talk | 1 | bool | -- |
 
 ### 5. 錯誤代碼說明
 | 參數 | 意義 | 型別 | 說明 |
