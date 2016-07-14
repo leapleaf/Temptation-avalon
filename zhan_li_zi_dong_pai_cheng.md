@@ -1,13 +1,5 @@
 # 戰力自動排成
 
-
-
-# 每日任務
-
-
-
-
-
 ### 1.路徑:api/event/Combat_power_ranking
 
 ### 2. 說明
