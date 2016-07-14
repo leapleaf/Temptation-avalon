@@ -20,5 +20,5 @@
 * [每日簽到](mei.md)
 * [設定角色職業與模組](she_ding_jiao_se_zi_liao.md)
 * [取得角色資訊](qu_de_jiao_se_zi_xun.md)
-* get_newbie_status
+* [get_newbie_status](getnewbie_status.md)
 
