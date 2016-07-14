@@ -3,19 +3,23 @@
 
 更新日期:2016/07/14
 
-發布版本:2.0.6
+
 ### 1.路徑:api/character/talk.php 　
 
 ### 2. 說明
 
-每天都會重製時間任務
-### 3. 輸入參數說明
+輸入角色ID
+與對話類型(Type)請參考遊戲場景聖域裡面的部分有四個講話類型
 
+### 3. 輸入參數說明
 
 | 參數 | 意義 | 型別 | 長度限制 | 說明 |
 | -- | -- | -- | -- | -- | -- |
 | charaet_id | 1 | int | 11   |   --  |
-
+| type | 0 | int |   |   天使  |
+| type | 1 | int |   |   牧師  |
+| type | 2 | int |   |   教師  |
+| type | 4 | int |   |   聖誕老人   |
 
 ### 4. 回傳參數說明
 | 參數 | 意義 | 型別 | 說明 |
@@ -38,6 +42,13 @@
 |Integration|總積分 |||  
 |Do_you_have|今天有沒有被使用過這隻API ||--|  
 ### 5. 錯誤代碼說明
+| 參數 | 意義 | 型別 | 說明 |
+| -- | -- | -- | -- | -- |
+| err_code | 140 | string |  |
+| err_desc | character does not exist | string | 找不到此ID |
+| err_code | 320 | string |  |
+| err_desc | invalid type | string | 无效的类型 |
+
 
 
 
