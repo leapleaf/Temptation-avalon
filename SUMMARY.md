@@ -26,4 +26,5 @@
 * [選擇元素製作](xuan_ze_yuan_su_zhi_zuo.md)
 * [取得元素製作時間](qu_de_yuan_su_zhi_zuo_shi_jian.md)
 * [獲取元素](huo_qu_yuan_su.md)
+* 角色是否存在
 
