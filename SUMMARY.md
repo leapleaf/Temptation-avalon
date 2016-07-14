@@ -18,4 +18,5 @@
 * [跟大師講話](gen_da_shi_jiang_hua.md)
 * [取得跟大師講話](qu_de.md)
 * [每日簽到](mei.md)
+* 設定角色資料
 
