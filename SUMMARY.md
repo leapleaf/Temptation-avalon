@@ -31,5 +31,5 @@
 * [信件](xin_jian.md)
 * [後台](hou_tai.md)
    * [取得角色訊息-後台使用](qu_de_jiao_se_xun_606f-_hou_tai_shi_yong.md)
-   * [回復角色資訊](hui_fu_api.md)
+   * [回復角色資訊-後台使用](hui_fu_api.md)
 
