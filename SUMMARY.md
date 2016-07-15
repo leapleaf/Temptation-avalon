@@ -29,5 +29,5 @@
 * [角色是否存在](jiao_se_shi_fou_cun_zai.md)
 * [角色能力值影響](jiao_se_neng_li_zhi.md)
 * [信件](xin_jian.md)
-* 取得角色訊息-後台使用
+* [取得角色訊息-後台使用](qu_de_jiao_se_xun_606f-_hou_tai_shi_yong.md)
 
