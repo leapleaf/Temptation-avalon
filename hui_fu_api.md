@@ -3,10 +3,9 @@
 
 
 
-
 更新日期:2016/07/15
 
-### 1.路徑:    ../character_mail/get_duplex_message.php   　　　　 
+### 1.路徑: ../character_mail/reply_duplex_message.php 　   　　　　 
    　　　　  　
 
 ### 2. 說明
@@ -17,8 +16,8 @@
 | 參數 | 意義 | 型別 | 長度限制 | 說明 |
 | -- | -- | -- | -- | -- | -- |
 | character_id |  | string | 11   |   --  |
-| type |  | int | 11   |   --  |
-
+| mail_id |  | int | 11   |   --  |
+| content |  | string | 11   |   --  |
 
 ### 4. 回傳參數說明
 | 參數 | 意義 | 型別 | 說明 |
