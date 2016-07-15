@@ -33,4 +33,5 @@
    * [取得角色訊息-後台使用](qu_de_jiao_se_xun_606f-_hou_tai_shi_yong.md)
    * [回復角色資訊-後台使用](hui_fu_api.md)
    * [送出角色訊息-後台使用](song_chu_jiao_se_xun_xi.md)
+* 檢查
 
