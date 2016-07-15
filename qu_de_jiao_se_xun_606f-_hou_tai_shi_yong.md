@@ -29,9 +29,10 @@
  page_size |  | string | 頁數|
 ### 5. 錯誤代碼說明
 ```
-array (size=2)
-  'err_code' => string '151' (length=3)
-  'err_desc' => string 'the mail does not exist' (length=23)
+| 參數 | 意義 | 型別 | 說明 |
+| -- | -- | -- | -- | -- |
+| err_code | 151 | string |  |
+| err_desc | the character does not exist  | string | 沒有此ID |
   ```
 
 ### 6.回傳格式範例
