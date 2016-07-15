@@ -29,21 +29,17 @@
  page_size |  | string | 頁數|
 ### 5. 錯誤代碼說明
 ```
-array (size=2)
-  'err_code' => string '151' (length=3)
-  'err_desc' => string 'the mail does not exist' (length=23)
+| 參數 | 意義 | 型別 | 說明 |
+| -- | -- | -- | -- | -- |
+| err_code | 151 | string |  |
+| err_desc | the character does not exist  | string | 沒有此ID |
   ```
 
 ### 6.回傳格式範例
 ```
 
 array (size=3)
-  'err_code' => string '000' (length=3)
-  'err_desc' => string 'success' (length=7)
-  'head_id' => int 0
-  'tail_id' => 
-  'head_content' => 
-  'tail_content' => 
+{"err_code":"902","err_desc":"ExceptionID:10823\ncode:23000,\nFile:\/var\/www\/html\/Temptation\/test\/lib\/idiorm\/idiorm.php,\nLine:434,\nMessage:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`temptation`.`character_mail`, CONSTRAINT `character_mail_ibfk_2` FOREIGN KEY (`receiver_id`) REFERENCES `character` (`id`) ON DELETE CASCADE),\nTraceAsString:#0 \/var\/www\/html\/Temptation\/test\/lib\/idiorm\/idiorm.php(434): PDOStatement->execute()\n#1 \/var\/www\/html\/Temptation\/test\/lib\/idiorm\/idiorm.php(2010): ORM::_execute('INSERT INTO `ch...', Array, 'default')\n#2 \/var\/www\/html\/Temptation\/test\/api\/common\/common_function.php(571): ORM->save()\n#3 \/var\/www\/html\/Temptation\/test\/api\/common\/common_function.php(799): send_mail(Array, '1134', '0', '', '', 6, 0, '', '36', '0')\n#4 \/var\/www\/html\/Temptation\/test\/api\/character_mail\/reply_duplex_message.php(61): reply_duplex_message(Array, '109412', '')\n#5 \/var\/www\/html\/Temptation\/test\/api\/tool\/test_ajax.php(7): require_once('\/var\/www\/html\/T...')\n#6 {main}"}
 
 ```
 
