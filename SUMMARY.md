@@ -35,5 +35,5 @@
    * [送出角色訊息-後台使用](song_chu_jiao_se_xun_xi.md)
 * [檢查_訊息讀取(不確定)](jian_cha.md)
 * [接受信件獎勵](hui_fu_xun_xi.md)
-* 發送信件
+* [發送信件](fa_song_xin_jian.md)
 
