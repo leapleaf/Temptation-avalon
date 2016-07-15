@@ -3,7 +3,7 @@
 
 更新日期:2016/07/14
 
-### 1.路徑:api/character/get_talk.php  　
+### 1.路徑:../character_mail/reply_duplex_message.php  　
 
 ### 2. 說明
 
@@ -13,7 +13,8 @@
 | 參數 | 意義 | 型別 | 長度限制 | 說明 |
 | -- | -- | -- | -- | -- | -- |
 | charaet_id | 1 | int | 11   |   --  |
-
+| charaet_id | 1 | int | 11   |   --  |
+| charaet_id | 1 | int | 11   |   --  |
 
 ### 4. 回傳參數說明
 | 參數 | 意義 | 型別 | 說明 |
