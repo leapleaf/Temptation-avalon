@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * VIP
    * 戰力排行
 * [每日任務](chapter1.md)
 * [每日領取禮包](ling_qu.md)
