@@ -13,6 +13,7 @@
    * [戰力自動排成](zhan_li_zi_dong_pai_cheng.md)
    * [聯盟競技場排行](zhan_li.md)
 * [虔誠神學](qian_cheng_shen_xue.md)
+* [金幣log](jin_bi.md)
 * [跟大師講話](gen_da_shi_jiang_hua.md)
 * [取得跟大師講話](qu_de.md)
 * [每日簽到](mei.md)
@@ -37,5 +38,4 @@
 * [取得角色信箱](qu_de_jiao_se_xin_xiang.md)
 * [公司網站](gong_si_wang_zhan.md)
    * [主頁面](zhu_jia_gou_ye_mian.md)
-* [金幣log](jin_bi.md)
 
