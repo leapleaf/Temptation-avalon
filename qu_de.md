@@ -3,7 +3,7 @@
 
 更新日期:2016/07/14
 
-### 1.路徑:../character_mail/reply_duplex_message.php  　
+### 1.路徑:./character/get_talk.php  　
 
 ### 2. 說明
 
