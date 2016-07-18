@@ -37,5 +37,4 @@
 * [取得角色信箱](qu_de_jiao_se_xin_xiang.md)
 * [公司網站](gong_si_wang_zhan.md)
    * [主頁面](zhu_jia_gou_ye_mian.md)
-   * [mycard](mycard.md)
 
