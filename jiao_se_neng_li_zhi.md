@@ -22,8 +22,6 @@
 | -- | -- | -- | -- | -- |
 | err_code | 000 | string |  |
 | err_desc |  | string | -- |
-| gems |  | string | 寶石 |
-| queue |  | string | 數量|
 
 ### 5. 錯誤代碼說明
 
